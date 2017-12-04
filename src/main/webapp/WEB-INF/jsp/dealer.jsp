@@ -31,6 +31,7 @@
         <a class="waves-effect waves-button" href="javascript:;" onclick="permissionAction()"><i class="zmdi zmdi-key"></i> 用户权限</a>
     </div>
     <table id="dealerTable"></table>
+    <div></div>
 </div>
 <jsp:include page="footer.jsp"/>
 <script src="<%=path%>/static/js/dealer.js"></script>
