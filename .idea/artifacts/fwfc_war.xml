@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fwfc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="fwfc.war">
+      <element id="artifact" artifact-name="fwfc:war exploded" />
+    </root>
+  </artifact>
+</component>
